@@ -1,3 +1,5 @@
+![EA App Logo](https://cdn2.steamgriddb.com/icon/ff51fb7a9bcb22c595616b4fa368880a/32/256x256.png)
+
 # EA App EULA Privacy Scanner
 
 This Python script helps you find, collect, and review the End User License Agreements (EULAs) and similar legal documents for all your installed EA App games. It’s designed for privacy-conscious gamers, researchers, and anyone who wants to know exactly what legal terms and privacy policies come with the games they own.
