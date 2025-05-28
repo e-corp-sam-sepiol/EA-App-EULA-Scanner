@@ -45,7 +45,7 @@ OPENAI_API_KEY = ""  # Optionally paste your key here, or leave blank to use env
 EA_GAMES_PATH = r"C:\Program Files\EA Games"  # Change if your EA App games are elsewhere
 API_DELAY = 2  # seconds between API calls
 OUTPUT_FILE = "eaapp_eula_privacy_report.csv"
-EULA_DUMP_FILE = "eaapp_eula_dump.txt"  # File to save raw EULA texts
+EULA_DUMP_FILE = "ea_app_eula_dump.txt"  # File to save raw EULA texts
 
 # ---------------- OPENAI CLIENT SETUP ----------------
 api_key = os.environ.get("OPENAI_API_KEY", OPENAI_API_KEY)
